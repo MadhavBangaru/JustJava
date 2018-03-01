@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <string name="app_name">"జస్ట్ జావా "</string>
+    <string name="toppings">టాపింగ్స్</string>
+    <string name="whipped_cream">విప్పేడ్  క్రీమ్</string>
+    <string name="chocolate">చాక్లెట్</string>
+    <string name="name">" పేరు"</string>
+    <string name="quantity">పరిమాణం</string>
+    <string name="order_summary">కొనుగోలు వివరణ</string>
+    <string name="order">ఆర్డర్</string>
+    <string name="thank_you">ధన్యవాదాలు!!</string>
+    <string name="add_wipped_cream">విప్పేడ్  క్రీమ్ను జోడించాలా? :<ns1:g example="true" id="addWhippedCream">%b</ns1:g></string>
+    <string name="add_chocolate">"చాక్లెట్ను జోడించాలా? :<ns1:g example="true" id="addChocolate">%b</ns1:g> "</string>
+    <string name="order_summary_price">మొత్తం = <ns1:g example="$10" id="price">%s</ns1:g></string>
+    <string name="order_summary_name">పేరు :<ns1:g example="Amy" id="name">%s</ns1:g></string>
+    <string name="order_summary_quantity">పరిమాణం =<ns1:g example="10" id="quantity">%s</ns1:g></string>
+
+
+</resources>

@@ -1,0 +1,25 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns1="http://schemas.android.com/tools">
+    <string name="app_name">JustJava</string>
+    <string name="toppings">TOPPINGS</string>
+    <string name="decrement">-</string>
+    <string name="increment">+</string>
+    <string name="initial">2</string>
+    <string name="initialPrice">₹10</string>
+    <string name="whipped_cream">Whipped Cream</string>
+    <string name="name"> Name</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="quantity">QUANTITY</string>
+    <string name="order_summary">ORDER SUMMARY</string>
+    <string name="order">ORDER</string>
+    <string name="thank_you">Thank You!!</string>
+    <string name="add_wipped_cream">Add Whipped Cream? :<xliff:g id ="addWhippedCream" example="true">%b</xliff:g></string>
+    <string name="add_chocolate">Add Chocolate? :<xliff:g id ="addChocolate" example="true">%b</xliff:g></string>
+    <string name="order_summary_name">Name :<ns1:g example="Amy" id="name">%s</ns1:g></string>
+    <string name="toast1">You cannot have less than 1 coffee</string>
+    <string name="toast2">You cannot have more than 50 coffees</string>
+    <string name="javamail">Just Java order for :</string>
+    <string name="order_summary_price">Total = <ns1:g example="$10" id="price">%s</ns1:g></string>
+    <string name="order_summary_quantity">Quantity =<ns1:g example="10" id="quantity">%s</ns1:g></string>
+
+
+</resources>
