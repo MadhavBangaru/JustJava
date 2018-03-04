@@ -65,6 +65,9 @@ public class MainActivity extends AppCompatActivity {
         if (addchocolate) {
             price = numberOfCoffees * pricePerCup + 2 * numberOfCoffees;
         }
+        if(addwippedcream && addchocolate){
+            price = numberOfCoffees * pricePerCup +3 * numberOfCoffees;
+        }
         return price;
     }
 
